@@ -108,6 +108,9 @@ body {
     .container h1 {
         font-size: 20px;
     }
+    .container h1 span {
+        border-bottom: 1px solid #faa123;
+    }
     .display {
         width: 100%;
         /* justify-content: center; */
